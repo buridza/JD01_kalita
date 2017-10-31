@@ -1,4 +1,4 @@
-package classAndObj.tasksA.airline;
+package com.it.JD01.classAndObj.tasksA.airline;
 
 import java.util.Random;
 

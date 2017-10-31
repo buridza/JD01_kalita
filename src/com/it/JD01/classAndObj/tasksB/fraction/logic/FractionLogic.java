@@ -1,6 +1,6 @@
-package classAndObj.tasksB.fraction.logic;
+package com.it.JD01.classAndObj.tasksB.fraction.logic;
 
-import classAndObj.tasksB.fraction.entity.Fraction;
+import com.it.JD01.classAndObj.tasksB.fraction.entity.Fraction;
 
 /**
  * Created by Denis on 29.10.2017.

@@ -1,4 +1,4 @@
-package classAndObj.tasksA.train;
+package com.it.JD01.classAndObj.tasksA.train;
 
 import java.util.ArrayList;
 import java.util.Arrays;

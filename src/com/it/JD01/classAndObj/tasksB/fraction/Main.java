@@ -1,7 +1,7 @@
-package classAndObj.tasksB.fraction;
+package com.it.JD01.classAndObj.tasksB.fraction;
 
-import classAndObj.tasksB.fraction.entity.Fraction;
-import classAndObj.tasksB.fraction.logic.FractionLogic;
+import com.it.JD01.classAndObj.tasksB.fraction.entity.Fraction;
+import com.it.JD01.classAndObj.tasksB.fraction.logic.FractionLogic;
 
 import java.util.Random;
 

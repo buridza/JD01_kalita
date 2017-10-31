@@ -1,4 +1,4 @@
-package classAndObj.tasksA.аbiturient;
+package com.it.JD01.classAndObj.tasksA.аbiturient;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package classAndObj.tasksA.car;
+package com.it.JD01.classAndObj.tasksA.car;
 
 import java.util.ArrayList;
 

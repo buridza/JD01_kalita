@@ -1,4 +1,4 @@
-package classAndObj.tasksA.house;
+package com.it.JD01.classAndObj.tasksA.house;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package classAndObj.tasksB.fraction.entity;
+package com.it.JD01.classAndObj.tasksB.fraction.entity;
 
 /**
  * Created by Denis on 29.10.2017.
