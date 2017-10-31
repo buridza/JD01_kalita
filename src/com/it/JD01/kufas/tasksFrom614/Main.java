@@ -1,4 +1,4 @@
-package tasksFrom614;
+package com.it.JD01.kufas.tasksFrom614;
 
 import java.util.Scanner;
 
