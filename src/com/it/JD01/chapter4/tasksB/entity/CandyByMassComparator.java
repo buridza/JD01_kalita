@@ -1,4 +1,4 @@
-package com.it.JD01.javaBasics.tasksB.entity;
+package com.it.JD01.chapter4.tasksB.entity;
 
 import java.util.Comparator;
 

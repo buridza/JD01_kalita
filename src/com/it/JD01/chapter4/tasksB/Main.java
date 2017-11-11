@@ -1,9 +1,9 @@
-package com.it.JD01.javaBasics.tasksB;
+package com.it.JD01.chapter4.tasksB;
 
-import com.it.JD01.javaBasics.tasksB.Communarka.Communarka;
-import com.it.JD01.javaBasics.tasksB.Communarka.Roshen;
-import com.it.JD01.javaBasics.tasksB.entity.Candy;
-import com.it.JD01.javaBasics.tasksB.entity.CandyByMassComparator;
+import com.it.JD01.chapter4.tasksB.Communarka.Communarka;
+import com.it.JD01.chapter4.tasksB.Communarka.Roshen;
+import com.it.JD01.chapter4.tasksB.entity.Candy;
+import com.it.JD01.chapter4.tasksB.entity.CandyByMassComparator;
 
 import java.util.ArrayList;
 import java.util.Random;

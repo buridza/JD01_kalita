@@ -1,6 +1,6 @@
-package com.it.JD01.javaBasics.tasksB.Communarka;
+package com.it.JD01.chapter4.tasksB.Communarka;
 
-import com.it.JD01.javaBasics.tasksB.entity.*;
+import com.it.JD01.chapter4.tasksB.entity.*;
 
 public class Roshen extends Candy implements Manufacturer{
     @Override

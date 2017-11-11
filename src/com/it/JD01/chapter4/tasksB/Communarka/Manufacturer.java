@@ -1,6 +1,6 @@
-package com.it.JD01.javaBasics.tasksB.Communarka;
+package com.it.JD01.chapter4.tasksB.Communarka;
 
-import com.it.JD01.javaBasics.tasksB.entity.*;
+import com.it.JD01.chapter4.tasksB.entity.*;
 
 /**
  * Created by Denis on 02.11.2017.
